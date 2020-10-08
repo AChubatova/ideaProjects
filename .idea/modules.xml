@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaScriptAndPython.iml" filepath="$PROJECT_DIR$/JavaScriptAndPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javascript/javascript.iml" filepath="$PROJECT_DIR$/javascript/javascript.iml" />
       <module fileurl="file://$PROJECT_DIR$/pythonmodule/pythonmodule.iml" filepath="$PROJECT_DIR$/pythonmodule/pythonmodule.iml" />
     </modules>
   </component>
