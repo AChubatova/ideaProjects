@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaScriptAndPython.iml" filepath="$PROJECT_DIR$/JavaScriptAndPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenModule/mavenModule.iml" filepath="$PROJECT_DIR$/mavenModule/mavenModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pythonmodule/pythonmodule.iml" filepath="$PROJECT_DIR$/pythonmodule/pythonmodule.iml" />
+    </modules>
+  </component>
+</project>
